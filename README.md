@@ -2,6 +2,8 @@
 
 **I'm Ola and I like to code**
 
+![Ola's github stats](https://github-readme-stats.vercel.app/api?username=zaynaib&show_icons=true&theme=material-palenight)
+
 - 🎥 I'm currently learning in public on my Youtube channel [Code with Ola](https://www.youtube.com/channel/UCCKgha-Y5wmJ2abaG9EusMA)
 - 🔭 I’m currently working on a Hugo website for the MiRCommunity 
 - 🌱 I’m currently learning React + D3.js
