@@ -12,3 +12,5 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zaynaib-ola-giwa/) [Twitter](https://twitter.com/AmazingSpeciali)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I still play Pokemon Go 
+
+![Visitor Count](https://profile-counter.glitch.me/zaynaib/count.svg)
