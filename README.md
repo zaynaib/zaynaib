@@ -13,4 +13,3 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I still play Pokemon Go 
 
-![Visitor Count](https://profile-counter.glitch.me/zaynaib/count.svg)
